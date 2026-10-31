@@ -72,15 +72,76 @@ theqrcode-io is a company surfaced via the API Evangelist harvest backlog (sourc
 
 Everything profiled for theqrcode-io is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/theqrcode-io/](https://apis.io/providers/theqrcode-io/)** — or go straight to one of the APIs or properties below.
 
+### APIs (1)
+
+- [QR Code API](https://apis.io/apis/theqrcode-io/qr-code-api/) — API reference for The QR Code service.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Theqrcode Io Domain Security](https://apis.io/security/theqrcode-io/theqrcode-io-domain-security/)
+
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://theqrcode.io/)
+- [Documentation](https://dev.theqrcode.io/)
+- [API reference](https://theqrcode.io/api)
+- [Pricing](https://theqrcode.io/pricing)
+- [Sign up](https://theqrcode.io/auth/signup)
+- [Support](https://theqrcode.io/help)
+- [Blog](https://theqrcode.io/blog)
+- [Terms of service](https://theqrcode.io/terms)
+- [Privacy policy](https://theqrcode.io/privacy)
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/theqrcode-io/](https://apis.io/providers/theqrcode-io/).
+**Kin Score 18.9** — emerging · rubric 0.25.0 · scored 2026-10-31
+
+| Facet | Score |
+|---|---|
+| Discoverability | 39.3 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 31.0 |
+| Access clarity | 44.7 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/theqrcode-io/](https://apis.io/providers/theqrcode-io/).
 
 ## How this profile is made
 
